@@ -1,3 +1,6 @@
+typography_spectrum: 0.10265704081393778
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#225378'
@@ -9,6 +12,15 @@ color:
   lightness: 0.7391420027706772
   saturation: 0.8865997169632465
   rhythmicContrast: 0.5414877973962575
+github: true
+layout_spectrum: 0.9933982049115002
+author:
+  name: Rakesh Pathak
+  email: pathakr100@gmail.com
+  url: 'http://pathakstore.co.in'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d72d09c-d133-4047-bc8c-2c6e23748a68.jpg
+name: pathakstore
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -16,29 +28,31 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: pathakstore
-layout_spectrum: 0.9933982049115002
-typography_spectrum: 0.10265704081393778
+navigation:
+  - name: store for happiness
+    url: 'http://pathakstore.com'
+    type: external
+title: Pathakstore
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
     html: '<img src="https://images7.alphacoders.com/413/413192.jpg">'
     src: 'https://images7.alphacoders.com/413/413192.jpg'
     metadata:
-      author: []
+      datePublished: null
+      isBasedOnUrl: 'https://images7.alphacoders.com/413/413192.jpg'
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://images7.alphacoders.com'
         name: Alphacoders
         favicon: null
         domain: images7.alphacoders.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      isBasedOnUrl: 'https://images7.alphacoders.com/413/413192.jpg'
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -47,20 +61,20 @@ content:
     html: '<img src="https://images7.alphacoders.com/413/413192.jpg">'
     src: 'https://images7.alphacoders.com/413/413192.jpg'
     metadata:
-      author: []
+      datePublished: null
+      isBasedOnUrl: 'https://images7.alphacoders.com/413/413192.jpg'
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://images7.alphacoders.com'
         name: Alphacoders
         favicon: null
         domain: images7.alphacoders.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      isBasedOnUrl: 'https://images7.alphacoders.com/413/413192.jpg'
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -72,26 +86,20 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/9005f3c7-f7df-4016-af83-99cfca0dbbf3.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-title: Pathakstore
 description: Store for happiness
-github: true
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d72d09c-d133-4047-bc8c-2c6e23748a68.jpg
-content_rating:
-  adult: false
