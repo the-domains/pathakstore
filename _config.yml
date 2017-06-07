@@ -17,7 +17,7 @@ layout_spectrum: 0.9933982049115002
 author:
   name: Rakesh Pathak
   email: pathakr100@gmail.com
-  url: 'https://pathakstore.com'
+  url: 'http://pathakstore.co.in'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d72d09c-d133-4047-bc8c-2c6e23748a68.jpg
 name: pathakstore
@@ -30,7 +30,7 @@ colors:
     - 'hsl(0,0%,20%)'
 navigation:
   - name: store for happiness
-    url: 'http://pathakstore.com'
+    url: 'http://pathakstore.co.in'
     type: external
 title: Pathakstore
 content:
