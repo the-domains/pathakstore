@@ -1,0 +1,97 @@
+color:
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+  brandStrength: 0.9784103208221495
+  lightness: 0.7391420027706772
+  saturation: 0.8865997169632465
+  rhythmicContrast: 0.5414877973962575
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: pathakstore
+layout_spectrum: 0.9933982049115002
+typography_spectrum: 0.10265704081393778
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: '<img src="https://images7.alphacoders.com/413/413192.jpg">'
+    src: 'https://images7.alphacoders.com/413/413192.jpg'
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://images7.alphacoders.com'
+        name: Alphacoders
+        favicon: null
+        domain: images7.alphacoders.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      isBasedOnUrl: 'https://images7.alphacoders.com/413/413192.jpg'
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: '<img src="https://images7.alphacoders.com/413/413192.jpg">'
+    src: 'https://images7.alphacoders.com/413/413192.jpg'
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://images7.alphacoders.com'
+        name: Alphacoders
+        favicon: null
+        domain: images7.alphacoders.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      isBasedOnUrl: 'https://images7.alphacoders.com/413/413192.jpg'
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9005f3c7-f7df-4016-af83-99cfca0dbbf3.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/9005f3c7-f7df-4016-af83-99cfca0dbbf3.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Pathakstore
+description: Store for happiness
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d72d09c-d133-4047-bc8c-2c6e23748a68.jpg
+content_rating:
+  adult: false
